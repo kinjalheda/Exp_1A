@@ -33,17 +33,17 @@ st.subheader("Proposition 2:")
 st.write("(Disodium salt of ethylene diamine tetra acetic acid) is used for determination of hardness by virtue of its stability and its complex forming efficiency with Ca2+ and Mg2+ from hard water. EBT (Eriochrome black-T) is used as an indicator in above complexometric titration. EBT forms wine red complex with Ca/Mg ions. Addition of EDTA displaces these ions and formation of colorless EDTA-M complex with regeneration of blue colored dye takes place. This change in color from red to blue marks the end point of titration.")
 
 
-import streamlit as st
-from PIL import Image
+#import streamlit as st
+#from PIL import Image
 
 # Open an image file
 
 # Open an image file
-img_path = r"C:\Users\asu65\Downloads\attachments\Screenshot_20231114-100321_Drive.jpg"
-img = Image.open(img_path)
-img = Image.open(img_path)
+#img_path = r"C:\Users\asu65\Downloads\attachments\Screenshot_20231114-100321_Drive.jpg"
+#img = Image.open(img_path)
+#img = Image.open(img_path)
 # Display the image using Streamlit
-st.image(img,  use_column_width=True)
+#st.image(img,  use_column_width=True)
 
 
 st.subheader("Proposition 3:")
